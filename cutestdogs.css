@@ -1,0 +1,95 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      height: 100%;
+    }
+    body {
+       width: 50%;
+       height: 100%;
+       text-align: center;
+       margin: 0 auto;
+       font-family: 'righteous', cursive;
+       color: white;
+       background-color: black
+
+    }
+
+    img {
+        padding: 1px;
+        border: 1px solid white;
+
+    }
+
+    header {
+        background-color: #6FA8FF;
+        padding: 2px;
+        border: 3px;
+        margin:2px;
+        font-size: 1.75em;
+        display: block;
+
+
+    }
+    nav {
+        float: left;
+        display: block;
+        width: 100%;
+        text-align: middle;
+
+    }
+    nav ul {
+        text-align:center;
+        padding: 10px;
+        margin: 20px;
+        float: left;
+        border-bottom: 5px;
+        list-style-type: none;
+    }
+    nav li {
+        float: left;
+        background-color:white;
+        padding: .3px;
+        border: .3px;
+        margin: .3px;
+        display: block;
+
+    }
+    nav li a {
+        display: inline;
+        height: 25px;
+        padding: 10px 50px 9px 90px;
+
+    }
+    a {
+        color: green;
+        font-size: .56em;
+
+
+
+    }
+    section {
+        width: 73%;
+        display: inline-block;
+        float: left;
+
+
+    }
+    aside {
+        width: 17%;
+        display: inline-block;
+        background-color:;
+        padding:;
+        min-height: 100%;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        color:;
+        clear: both;
+        display: block;
+    }
